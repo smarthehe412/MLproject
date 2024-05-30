@@ -1,0 +1,26 @@
+{
+    "all_labels": ["airplane", "apple", "banana", "bicycle", "cat", "dog", "elephant", "giraffe", "horse", "pizza", "stop sign", "toilet", "traffic light", "train", "zebra", "person", "car", "bus", "chair", "bird"],
+    "label_dict": {
+      "airplane": 0,
+      "apple": 1,
+      "banana": 2,
+      "bicycle": 3,
+      "cat": 4,
+      "dog": 5,
+      "elephant": 6,
+      "giraffe": 7,
+      "horse": 8,
+      "pizza": 9,
+      "stop sign": 10,
+      "toilet": 11,
+      "traffic light": 12,
+      "train": 13,
+      "zebra": 14,
+      "person": 15,
+      "car": 16,
+      "bus": 17,
+      "chair": 18,
+      "bird": 19
+    },
+    "label_cnt": 20
+  }

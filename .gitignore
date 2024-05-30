@@ -1,0 +1,8 @@
+attention
+attention/*
+fastercnn-resNet50
+fastercnn-resNet50/*
+cudnn-linux-x86_64-8.9.7.29_cuda12-archive
+cudnn-linux-x86_64-8.9.7.29_cuda12-archive/*
+checkpoint
+checkpoint/*
